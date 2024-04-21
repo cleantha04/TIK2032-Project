@@ -9,7 +9,7 @@ window.addEventListener('scroll', scrollHeader);
 // Tema
 const themebutton = document.getElementById('theme-button');
 const darktheme = 'dark-theme';
-const icontheme = 'bxs-sun';
+const icontheme = 'moon-icon';
 
 // Mengaktifkan Tema Manual
 themebutton.addEventListener('click', () => {
